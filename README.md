@@ -1,6 +1,3 @@
-# Multiclass-Classification-on-Vegetables
-Multiclass Classification on Vegetables
-
 # Multiclass Classification with Machine Learning
 
 This repository contains a Jupyter notebook that demonstrates a multiclass classification task using machine learning techniques. The project walks through data preprocessing, model training, evaluation, and visualization.
